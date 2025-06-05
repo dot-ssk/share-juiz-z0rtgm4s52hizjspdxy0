@@ -4,3 +4,7 @@ theme: minima
 markdown: kramdown
 lang: ja
 permalink: pretty
+
+# カスタムCSS読み込み設定
+include:
+  - assets/css/style.css
