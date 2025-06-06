@@ -1,3 +1,8 @@
+---
+layout: default
+title: ZICS仕様書
+---
+
 # 📘 ZICS運用仕様書：対話継続プロトコルの構造とタグ運用体系
 ---
 
